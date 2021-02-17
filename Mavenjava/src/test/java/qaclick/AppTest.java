@@ -11,10 +11,13 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
+     * 
      */
+	
     @Test
     public void shouldAnswerWithTrue()
     {
+    	System.out.println("Hello from asian time guy");
         assertTrue( true );
     }
 }
