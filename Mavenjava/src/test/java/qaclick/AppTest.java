@@ -30,4 +30,20 @@ public class AppTest
         System.out.println("Hello from UK time guy");
         System.out.println("Hello from American time guy");
     }
+    @Test
+    public void shouldAnswerWithTrue11()
+    {
+    	System.out.println("Hello from asian time guy");
+        assertTrue( true );
+        System.out.println("Hello from UK time guy");
+        System.out.println("Hello from American time guy");
+    }
+    @Test
+    public void shouldAnswerWithTrue111()
+    {
+    	System.out.println("Hello from asian time guy");
+        assertTrue( true );
+        System.out.println("Hello from UK time guy");
+        System.out.println("Hello from American time guy");
+    }
 }
